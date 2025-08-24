@@ -34,3 +34,13 @@ To improve the quality of AI-generated educational content, a deep understanding
 **Techniques:** Prompt Engineering, Fine-Tuning (LoRA), 4-bit Quantization, Synthetic Data Generation, Data Preparation, Analysis & Augmentation.
 
 **Deployment:** Google Colab, Ngrok, Streamlit, FastAPI, Hugging Face Spaces, GitHub.
+
+---
+
+## Generation Example
+
+**Input text (C1):**
+Der Krieg stellt stets eine tiefgreifende Zäsur für Gesellschaften dar, da er nicht nur Menschenleben kostet, sondern auch das Vertrauen in politische und soziale Strukturen erschüttert. Historiker betonen immer wieder, dass Konflikte selten aus einem einzigen Grund entstehen, sondern meist das Ergebnis komplexer ökonomischer, ideologischer und machtpolitischer Interessen sind. Besonders verheerend wirken sich moderne Kriege auf die Zivilbevölkerung aus, die durch Vertreibung, Hunger und Traumata nachhaltig gezeichnet wird. Trotz internationaler Abkommen und Institutionen gelingt es nur selten, bewaffnete Auseinandersetzungen rechtzeitig zu verhindern oder dauerhaft zu beenden. Umso dringlicher stellt sich die Frage, wie globale Zusammenarbeit gestärkt werden kann, um künftige Generationen vor ähnlichen Katastrophen zu bewahren.
+
+**Model output (B1):**
+Kriege sind immer eine tiefe Veränderung für Gesellschaften, denn sie kosten Menschenleben und beschädigen das Vertrauen in politische und soziale Strukturen. Historiker betonen immer wieder, dass Konflikte selten aus einem einzigen Grund entstehen, sondern meist das Ergebnis komplexer ökonomischer, ideologischer und machtpolitischer Interessen sind. Besonders schlimm sind moderne Kriege für die Zivilbevölkerung, die durch Vertreibung, Hunger und Traumata nachhaltig beeinflusst wird. Trotz internationaler Abkommen und Institutionen ist es nur selten möglich, bewaffnete Auseinandersetzungen rechtzeitig zu verhindern oder dauerhaft zu beenden. Es ist daher dringend notwendig, die globale Zusammenarbeit zu stärken, um künftigen Generationen vor ähnlichen Katastrophen zu schützen.
