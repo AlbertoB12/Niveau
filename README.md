@@ -4,6 +4,7 @@ LoRA fine-tuning of a Mistral model to rephrase German texts between B1, B2, an
 [Deutsch](README.de.md) | [English](README.md)
 
 Huggingface: [https://huggingface.co/AlbertoB12/Mistral-7B-Instruct-german-level-tuner](https://huggingface.co/AlbertoB12/Mistral-7B-Instruct-german-level-tuner)
+
 Live-Demo (Huggingface-Spaces): [https://huggingface.co/spaces/AlbertoB12/German_Level_Tuner](https://huggingface.co/spaces/AlbertoB12/German_Level_Tuner)
 
 To improve the quality of AI-generated educational content, a deep understanding of linguistic complexity is crucial. This project focuses on training an existing LLM to rephrase texts between the CEFR levels B1, B2, and C1.
