@@ -12,7 +12,7 @@ Um die Qualität von KI-generierten Bildungsinhalten zu verbessern, ist ein tief
 
 ### Datensatz-Erstellung – Generierung synthetischer Daten:
 
-- Zwei Open-Source-Datensätze (merlin_de und elg_cefr_de) mit klassifizierten deutschen Texten dienten als Grundlage.  
+- Zwei Open-Source-Datensätze (merlin_de(https://huggingface.co/datasets/UniversalCEFR/merlin_de) und elg_cefr_de) mit klassifizierten deutschen Texten dienten als Grundlage.  
 - Ich habe diese Daten vorverarbeitet und anschließend Gemini genutzt, um einen synthetischen Datensatz zu erstellen. Für jeden B1-, B2- und C1-Text ließ ich das Modell zwei neue Versionen auf den jeweils anderen Niveaus generieren. So entstand ein umfassender „Instruction-Input-Output“-Datensatz, der sich ideal für Fine-Tuning eignet.
 
 ### Modellauswahl und Training:
