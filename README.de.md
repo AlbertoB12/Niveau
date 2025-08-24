@@ -1,8 +1,10 @@
 # Niveaus – Fine-Tuning eines LLM für CEFR-Sprachniveaus
 
-Um die Qualität von KI-generierten Bildungsinhalten zu verbessern, ist ein tiefes Verständnis sprachlicher Komplexität entscheidend. Dieses Projekt konzentriert sich darauf, ein bestehendes LLM so zu trainieren, dass es Texte zwischen den CEFR-Niveaus B1, B2 und C1 umformulieren kann.
+LoRA-Fine-Tuning eines Mistral-Modells zur Umformulierung deutscher Texte zwischen den CEFR-Niveaus B1, B2 und C1. Das LLM wird auf einem synthetischen Datensatz trainiert, der mithilfe von Gemini erstellt wurde, um textspezifische Varianten für die einzelnen Niveaus zu generieren.
 
 [Deutsch](README.de.md) | [English](README.md)
+
+Um die Qualität von KI-generierten Bildungsinhalten zu verbessern, ist ein tiefes Verständnis sprachlicher Komplexität entscheidend. Dieses Projekt konzentriert sich darauf, ein bestehendes LLM so zu trainieren, dass es Texte zwischen den CEFR-Niveaus B1, B2 und C1 umformulieren kann.
 
 ---
 
