@@ -2,7 +2,7 @@
 
 Um die Qualität von KI-generierten Bildungsinhalten zu verbessern, ist ein tiefes Verständnis sprachlicher Komplexität entscheidend. Dieses Projekt konzentriert sich darauf, ein bestehendes LLM so zu trainieren, dass es Texte zwischen den CEFR-Niveaus B1, B2 und C1 umformulieren kann.
 
-Translations
+[Deutsch](README.de.md) | [English](README.md)
 
 ---
 
