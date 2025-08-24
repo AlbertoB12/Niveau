@@ -1,7 +1,7 @@
-# Niveau
+# Niveau – Fine-Tuning an LLM for CEFR Language Levels
 LoRA fine-tuning of a Mistral model to rephrase German texts between B1, B2, and C1 CEFR levels. The LLM is trained on a synthetic dataset, which was generated using Gemini to create level-specific text variations.
 
-Translations
+[Deutsch](README.de.md) | [English](README.md)
 
 To improve the quality of AI-generated educational content, a deep understanding of linguistic complexity is crucial. This project focuses on training an existing LLM to rephrase texts between the CEFR levels B1, B2, and C1.
 
